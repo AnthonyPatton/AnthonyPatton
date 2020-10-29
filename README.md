@@ -1,9 +1,6 @@
-### Hi there, I'm Anthony 👋
+ <h1>Hi there, I'm Anthony👋</h1>
 
 ---
-<br/>
-<br/>
-
 
 ## Software Engineer on a mission. 
 ## I enjoy exploring new technologies and developing software solutions.
