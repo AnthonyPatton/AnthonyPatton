@@ -2,7 +2,7 @@
 
 ---
 
-## Software Engineer on a mission. 
+## Software Engineer on a mission to create and inspire. 
 ## I enjoy exploring new technologies and developing software solutions.
 
 
@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" background="blue" alt="Portfolio" width="22px" src="https://img.icons8.com/office/16/000000/globe.png"/>][website]
+[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-twitter-social-media-justicon-flat-justicon.png"/>][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/ultraviolet/40/000000/instagram-new.png"/>][instagram]
 
 <br />
 
